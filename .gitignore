@@ -1,0 +1,13 @@
+# Ignore temporary or local files
+*.swp
+*.swo
+*.bak
+.DS_Store
+
+# Ignore compiled files
+*.pyc
+*.class
+
+# Lazy.nvim state files (if you use it)
+lazy-lock.json
+
